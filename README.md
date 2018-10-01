@@ -11,5 +11,5 @@ The HMDA dataset is large, feel free to select a specific cut of the data for mo
 
 I've split the analysis into two notebooks:
 
-    * [EDAandPreprocessing](https://github.com/CharlesNaylor/hmda/blob/master/EDAandPreprocessing.pdf): Exploratory data analysis and preprocessing. Fetch, explore, and manipulate the data.
-    * [Modeling](https://github.com/CharlesNaylor/hmda/blob/master/Modeling.pdf): Fit a few models to the data to predict mortgage lending decisions(
+* [EDAandPreprocessing](https://github.com/CharlesNaylor/hmda/blob/master/EDAandPreprocessing.pdf): Exploratory data analysis and preprocessing. Fetch, explore, and manipulate the data.
+* [Modeling](https://github.com/CharlesNaylor/hmda/blob/master/Modeling.pdf): Fit a few models to the data to predict mortgage lending decisions(
